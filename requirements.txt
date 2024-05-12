@@ -1,5 +1,4 @@
 wordcloud
 pandas
 urlextract
-emoji
 seaborn
